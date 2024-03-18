@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e572156c4e1b7e49182ab335f5ffd5caf4d35627bc47880a3cca5e47f4e33b03"
+hash = "e5c581d917fa5d0d57c20ddf80e13e4f1b7b1c94b65955741566b9fef9f2f7f5"
 metafile = true
 
 [[files]]
@@ -171,9 +171,8 @@ hash = "0259ff86b5c5655cbe9a25c626dcabc76cc049a82cce44af54a652fd4474f021"
 metafile = true
 
 [[files]]
-file = "mods/hexal.pw.toml"
-hash = "9cda1dcb4c304e790e45b7a7908de99554a3a6e55d7756a2c9f627b7b35097b6"
-metafile = true
+file = "mods/hexal-forge-1.20.1-0.3.0-2_modified.jar"
+hash = "77eeb512563316f7671a671406d5643a8f1daf21602bb65523842351ef93fe57"
 
 [[files]]
 file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-628.jar"
