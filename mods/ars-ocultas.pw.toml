@@ -1,0 +1,13 @@
+name = "Ars Ocultas"
+filename = "ars_ocultas-1.20.1-1.0.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tsw8vbks/versions/XspUum9e/ars_ocultas-1.20.1-1.0.0-all.jar"
+hash-format = "sha1"
+hash = "1d9fa614af8fb83a15ca1c69784d7d841f14a1d1"
+
+[update]
+[update.modrinth]
+mod-id = "Tsw8vbks"
+version = "XspUum9e"
