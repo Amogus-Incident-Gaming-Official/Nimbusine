@@ -36,11 +36,6 @@ hash = "5b73728cb17bf6fbcfcf2740e75255f766b69c964ea57a070e7c580d490d221f"
 metafile = true
 
 [[files]]
-file = "mods/ars-ocultas.pw.toml"
-hash = "a8a6abcf3bcf982bbe61df15efa6915e430a8c1e9fc9dff1ed07062ce92be176"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "1447df8a4bd1fd2cce2ae71f900f3d1f1626baa2fe37c877cef19549a4101c36"
 metafile = true
