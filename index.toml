@@ -51,11 +51,6 @@ hash = "7d1dbfb519008d002bfef471e8222608dea9282f2cec03c78601f4b55b82c8ed"
 metafile = true
 
 [[files]]
-file = "mods/biomancy.pw.toml"
-hash = "3ece6da2ff15dbe2ff4ee45360791e6ca90ddc39df7af2994b1fde562a7abe17"
-metafile = true
-
-[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "8f52c032c99b10247cdaae36b4aef5d76173109ea4067c0c4479c562f2740bde"
 metafile = true
@@ -152,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e5c581d917fa5d0d57c20ddf80e13e4f1b7b1c94b65955741566b9fef9f2f7f5"
+hash = "e572156c4e1b7e49182ab335f5ffd5caf4d35627bc47880a3cca5e47f4e33b03"
 metafile = true
 
 [[files]]
@@ -264,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
-metafile = true
-
-[[files]]
-file = "mods/occultism.pw.toml"
-hash = "22821ead458f364f73ec299937d86daffa8bdd0d558f7597be2802cb20e7e656"
 metafile = true
 
 [[files]]
