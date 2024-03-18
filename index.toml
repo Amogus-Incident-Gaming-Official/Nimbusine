@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "ee89624cda5529539c5f1f63820f6c4b110c3afe0a024cf9d4cb02f2c87fe051"
+hash = "7d1dbfb519008d002bfef471e8222608dea9282f2cec03c78601f4b55b82c8ed"
 metafile = true
 
 [[files]]
@@ -73,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "e06b4f6a4a5fa7982439f57ca5015b616c606789d9deef0ddb78838b85306fed"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
@@ -147,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e5c581d917fa5d0d57c20ddf80e13e4f1b7b1c94b65955741566b9fef9f2f7f5"
+hash = "e572156c4e1b7e49182ab335f5ffd5caf4d35627bc47880a3cca5e47f4e33b03"
 metafile = true
 
 [[files]]
@@ -200,6 +205,11 @@ hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
 metafile = true
 
 [[files]]
+file = "mods/lodestone.pw.toml"
+hash = "51e0eace94112ac4b58cf28c58b434dfc43f9e2a4b9fb3b87967c2699e0e0ea3"
+metafile = true
+
+[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "cc936594e8fa7df93eaf97933a0b37bb4c1eb30e26ef3e22dacef2837cd49433"
 metafile = true
@@ -227,6 +237,15 @@ metafile = true
 file = "mods/modonomicon.pw.toml"
 hash = "1cbbfdc8b83f41ad9cc92ab965f598bd63074148ced54e641a15555159b180f9"
 metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "e71354f6eb664a8bc3f904bcc24b0043421cdd88c60bebc3a9547db40ad2357f"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas-forge-1.20.1-0.1.0-4.jar"
+hash = "fa42ab3dcae17a453aa19a39b6dd61389372fc832de8b544af0841410c13a1cf"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -283,6 +302,11 @@ hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "e02cf24e798f2a3d5bcf83440a8a220a62871a326753f7991d61b8c6113791f5"
 metafile = true
@@ -300,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "1b4550507eee20ae5b5b7f1b28f0ce6ae90448fc5009e16a2f1a20ce19cd94f7"
 metafile = true
 
 [[files]]
