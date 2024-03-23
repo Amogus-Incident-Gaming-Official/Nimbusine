@@ -170,11 +170,6 @@ file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-628.jar"
 hash = "23a84bf36de92efbe1656069009d6ae46c5b010deec88c57c0c1029ccbedf36a"
 
 [[files]]
-file = "mods/hextweaks.pw.toml"
-hash = "c8f4ba492b6dbaa626b7750a8173a77afd73410ab0342d580cba2e64f6a22a87"
-metafile = true
-
-[[files]]
 file = "mods/idas.pw.toml"
 hash = "b7be363346808a5f97cf0e69161df8ea71f9ed7076bda6d803b9e66d476897e0"
 metafile = true
@@ -195,18 +190,9 @@ hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
 metafile = true
 
 [[files]]
-file = "mods/lodestone.pw.toml"
-hash = "51e0eace94112ac4b58cf28c58b434dfc43f9e2a4b9fb3b87967c2699e0e0ea3"
-metafile = true
-
-[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "cc936594e8fa7df93eaf97933a0b37bb4c1eb30e26ef3e22dacef2837cd49433"
 metafile = true
-
-[[files]]
-file = "mods/malum-1.20.1-1.6.8.jar"
-hash = "9e2d38bf701fb3ba74264d5ec21b84267b13c4ab7b3da76491cc03bad990d9f7"
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
@@ -299,11 +285,6 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "cee408077c7833b6665f515e4c4d98001496e7dd7ff13f41c6db225216fecb05"
-metafile = true
-
-[[files]]
-file = "mods/relics-vivid-light-addon.pw.toml"
-hash = "5bbb237a9661fd0695409f03db2e9a54dae43e13f909e9b9010fe8684af86444"
 metafile = true
 
 [[files]]

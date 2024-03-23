@@ -1,7 +1,0 @@
-name = "hextweaks"
-filename = "hextweaks-3.2.2-forge.jar"
-
-[download]
-url = "https://github.com/walksanatora/HexTweaks/releases/download/v3.2.2/hextweaks-3.2.2-forge.jar"
-hash-format = "sha256"
-hash = "72abba1e9217f75c646258d0d0bb2180d3027e65b88aa6448ee9f4dd968d39e8"
