@@ -26,8 +26,23 @@ hash = "59b6bb84098fa72089d97399cd78b5c2a8339438350a7c5a5670246aa6a00c15"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "f33725e21312e386f61239b78d5513fe53c86f3d19e1245ebe697d4ba4903daf"
+metafile = true
+
+[[files]]
+file = "mods/ars-artifice.pw.toml"
+hash = "9b207f5ff163e1b8d1f66d42b7ba970a43a3c801261054d1b5a1e78222b7e653"
+metafile = true
+
+[[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "6e70f15a5c5adc6c32035355cd418f0bd9b9f45063d9cb1e774d4f3d142611a1"
 metafile = true
 
 [[files]]
@@ -330,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/theurgy.pw.toml"
 hash = "bfbd1776c6e259b6e1368989dd5163a21dea13c5f447913f9b5a0ded99ebb727"
+metafile = true
+
+[[files]]
+file = "mods/tome-of-blood-rebirth.pw.toml"
+hash = "b22da6c7e7b31016cde8c5b3c8757e075b0fb2130da59193fb51544232b592ac"
 metafile = true
 
 [[files]]
