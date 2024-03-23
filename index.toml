@@ -6,6 +6,11 @@ hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "eb862320d6a4e793b69ea05b292193bbd90910b3f415f6697438710f48a4246c"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "ea524efc9a14ddcc97dd06331db45702aec49247dcea3087550e812a0375af10"
 metafile = true
@@ -28,11 +33,6 @@ metafile = true
 [[files]]
 file = "mods/ars-additions.pw.toml"
 hash = "f33725e21312e386f61239b78d5513fe53c86f3d19e1245ebe697d4ba4903daf"
-metafile = true
-
-[[files]]
-file = "mods/ars-artifice.pw.toml"
-hash = "9b207f5ff163e1b8d1f66d42b7ba970a43a3c801261054d1b5a1e78222b7e653"
 metafile = true
 
 [[files]]
