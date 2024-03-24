@@ -109,6 +109,11 @@ hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
+file = "mods/caupona.pw.toml"
+hash = "bd96c93d351c2a5b57795800967a562bb63a0d84163d364fc36b4ad050ebde18"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "e06b4f6a4a5fa7982439f57ca5015b616c606789d9deef0ddb78838b85306fed"
 metafile = true

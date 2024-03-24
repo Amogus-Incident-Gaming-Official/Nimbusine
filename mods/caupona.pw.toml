@@ -1,0 +1,13 @@
+name = "Caupona"
+filename = "caupona-1.20.1-0.4.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EFoYZIZL/versions/wAYHNkKT/caupona-1.20.1-0.4.9.jar"
+hash-format = "sha1"
+hash = "4daf72883ba186104c39a7d69194305ee4d4bc4f"
+
+[update]
+[update.modrinth]
+mod-id = "EFoYZIZL"
+version = "wAYHNkKT"
