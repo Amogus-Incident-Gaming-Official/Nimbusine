@@ -1,0 +1,13 @@
+name = "[Let's Do] API"
+filename = "letsdo-API-forge-1.2.9-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/cfANm9l6/letsdo-API-forge-1.2.9-forge.jar"
+hash-format = "sha1"
+hash = "66169eab12eb104968065182d050b59b515b1de8"
+
+[update]
+[update.modrinth]
+mod-id = "4XJZeZbM"
+version = "cfANm9l6"

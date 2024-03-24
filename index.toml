@@ -159,6 +159,11 @@ hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "656fa0c1294a426864918393413c2dbf9720e674fe4f5e5d26ec931e0e901306"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
 metafile = true
@@ -290,6 +295,41 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "7d8dafac6ba74f760a04115e50eebf1eb6ab7362ca969ddbf7a0dec73eecabb3"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery.pw.toml"
+hash = "a6088e4962d007d4eb90a4da2474bde7998923f79b0320650e442cc54efd414e"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "fcc5210a105779e5e164951f1942ab07fc36b23f27c2ba6f443081259c14e34f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "386edc1aadb450f1286eb49e2a5e86c58155604dce4a2774d1c72cded12b57cc"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "8cc481fd705b7a6a073ca999fb67c0c5db3b4f6fc153bb3e203206b5e831e4fd"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-nethervinery.pw.toml"
+hash = "fe3a86c4885ecddc177efd03444e6560e63613f5620e989cf8432862e257966e"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "25ddeb3bf9421939d02787f4bdb5343289f0d66a90512f34743af4843dbc305a"
 metafile = true
 
 [[files]]
