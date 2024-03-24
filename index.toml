@@ -24,6 +24,11 @@ hash = "2da3294f626686e5385863b574a4fbe1143e140fb82074ed16c5fd1063566a72"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
+metafile = true
+
+[[files]]
 file = "mods/apugli.pw.toml"
 hash = "b7d90194c12952eca93739e7329f7913c44821e3a396271cc16aba7b28d25e64"
 metafile = true
