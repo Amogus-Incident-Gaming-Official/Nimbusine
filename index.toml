@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "f323fe7c1eda5fdf2490e7b83b47695380bfa8c6bb49c21c9604c8d12fcd4199"
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
