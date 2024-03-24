@@ -44,6 +44,11 @@ hash = "59b6bb84098fa72089d97399cd78b5c2a8339438350a7c5a5670246aa6a00c15"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+metafile = true
+
+[[files]]
 file = "mods/ars-additions.pw.toml"
 hash = "f33725e21312e386f61239b78d5513fe53c86f3d19e1245ebe697d4ba4903daf"
 metafile = true
@@ -64,6 +69,11 @@ hash = "5b73728cb17bf6fbcfcf2740e75255f766b69c964ea57a070e7c580d490d221f"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "1447df8a4bd1fd2cce2ae71f900f3d1f1626baa2fe37c877cef19549a4101c36"
 metafile = true
@@ -76,6 +86,21 @@ metafile = true
 [[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "8f52c032c99b10247cdaae36b4aef5d76173109ea4067c0c4479c562f2740bde"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "119c6183e0ee766c12e155250b3efff9dde67783453a1cfd421fce7ce168ca2b"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "d78d92196dd0702b09f770eab82e18da8aca9ea696b87a6a2392d6b8d4aea197"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "fa592f14a11940c0762fa39782c09794c31bde0ba13b005a2c1a69843c338f75"
 metafile = true
 
 [[files]]
@@ -104,8 +129,18 @@ hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "543f895543ad347bc21fc1c5d812135f89ebf3e723a42f52cd27ae44ed81159d"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "07969aef1ce948aacc3296743969126d7d8bf96197e17e022a2bae64d3def458"
 metafile = true
 
 [[files]]
@@ -124,6 +159,11 @@ hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
 metafile = true
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "1a6d0711f27c72fd535fef344cfda555859fdfc59951c2bd25730308dbb4c8e5"
 metafile = true
@@ -131,6 +171,21 @@ metafile = true
 [[files]]
 file = "mods/embers.pw.toml"
 hash = "2036b454f3bca7b95e7d152398e577e024b50a7304d5ce5df6fba6328e83c9a1"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "5e3e6bd38266786f78f570307f54ab49bfc6337a0e6667d2635d3407c857ff86"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "5fe2b73d33efd03a5b487b10d98415318a89faf63d74965e0402b82b464c0f24"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
 metafile = true
 
 [[files]]
@@ -149,6 +204,16 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "a856d1364cb04d23f0b4258ad46c5483cdd878ace2c8409c7f20b803f2159f5d"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "1d1c62244ce737c9ac7e28d23c9d26fbc08ced9dd40467f628662e5c615d547a"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
 metafile = true
@@ -161,6 +226,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "0d2a80abab32de6a2094520dacb0fbca2d1a66f6c7f3c6f441c07320e2572856"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
 metafile = true
 
 [[files]]
@@ -208,8 +283,18 @@ hash = "b89733a48c29082434f6bce4616c0f528c3a5b40ee3b807f86a9f8241e05587b"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "e93f24623fe48bd7eee6e54e80c223ce71e639e210372124b8f22dd6b72924cc"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
 metafile = true
 
 [[files]]
@@ -282,6 +367,11 @@ hash = "56f021d20d5fa9c7ec5ee6e734b0aeda7805e529c9f20dafb98fecfe2ec156e7"
 metafile = true
 
 [[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "43a978d4f0267a8411fcc22a64c022a43ae150f0005cbaddd2d0094629437291"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
@@ -306,6 +396,11 @@ hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "cf286645d97aa16bc6949cf9515eaee267a8115f5a16c0dfda361ed893164d73"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "e02cf24e798f2a3d5bcf83440a8a220a62871a326753f7991d61b8c6113791f5"
 metafile = true
@@ -313,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "cee408077c7833b6665f515e4c4d98001496e7dd7ff13f41c6db225216fecb05"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
 metafile = true
 
 [[files]]
