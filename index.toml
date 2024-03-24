@@ -526,6 +526,11 @@ hash = "a3ba5b5f3ef7822e2f5ed74078b05d7a66e32997c9ca4544eb6beedce60d785c"
 metafile = true
 
 [[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
+metafile = true
+
+[[files]]
 file = "mods/theurgy.pw.toml"
 hash = "bfbd1776c6e259b6e1368989dd5163a21dea13c5f447913f9b5a0ded99ebb727"
 metafile = true
