@@ -541,6 +541,11 @@ hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
 metafile = true
 
 [[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "4fccc84224b67440d7ea5a6b5fd37825569dca3b39640d052e1a370a01083887"
+metafile = true
+
+[[files]]
 file = "mods/theurgy.pw.toml"
 hash = "bfbd1776c6e259b6e1368989dd5163a21dea13c5f447913f9b5a0ded99ebb727"
 metafile = true
