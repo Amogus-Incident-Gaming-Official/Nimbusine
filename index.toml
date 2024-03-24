@@ -189,11 +189,6 @@ hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
 metafile = true
 
 [[files]]
-file = "mods/endertech-infinity.pw.toml"
-hash = "d9a77905e626657a93a4423f0e245331232853f9d1eb9b65e4166f662580c764"
-metafile = true
-
-[[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "8103d9e0f49919e1868b5c6f82430b648148bb22c0f6ce24982f54070b6a5ce4"
 metafile = true
