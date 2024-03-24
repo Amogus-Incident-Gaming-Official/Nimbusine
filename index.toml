@@ -5,6 +5,10 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "f323fe7c1eda5fdf2490e7b83b47695380bfa8c6bb49c21c9604c8d12fcd4199"
 
 [[files]]
+file = "config/paxi/datapacks/Bliss 1.4.1.zip"
+hash = "c91fcf3189a96f69fd0a56f0b0a031a556961641fe55d699a71c24938ecb8446"
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
@@ -17,6 +21,11 @@ metafile = true
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "2da3294f626686e5385863b574a4fbe1143e140fb82074ed16c5fd1063566a72"
+metafile = true
+
+[[files]]
+file = "mods/apugli.pw.toml"
+hash = "b7d90194c12952eca93739e7329f7913c44821e3a396271cc16aba7b28d25e64"
 metafile = true
 
 [[files]]
@@ -277,6 +286,11 @@ file = "mods/paucal-forge-1.20.1-0.6.0-pre-118.jar"
 hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
@@ -374,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c14ecb42e2380cfae9682cdbba81affcf73de0ee9e86a94c420a9b92382e01a1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "1c81e1ebfd0a47ebc8fd6da82834c06f2d730538f892f9933420748586779be5"
 metafile = true
 
 [[files]]
