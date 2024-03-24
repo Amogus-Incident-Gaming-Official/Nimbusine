@@ -174,6 +174,11 @@ hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
 metafile = true
 
 [[files]]
+file = "mods/delightful.pw.toml"
+hash = "8e15bb179fe529f6f462dc10fab83d7f9f73110740f40fb645a49c977b972d62"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "656fa0c1294a426864918393413c2dbf9720e674fe4f5e5d26ec931e0e901306"
 metafile = true
