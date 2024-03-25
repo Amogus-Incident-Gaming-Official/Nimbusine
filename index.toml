@@ -89,6 +89,11 @@ hash = "2bef9c1f47174d832175c2a6c05eb6504e1d37c59ba1cb3287315590532eb574"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "a2578063255ebc10184eeb2fa113f2ed40b0f4c10876163b2b765b4cf7cc4505"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "7d1dbfb519008d002bfef471e8222608dea9282f2cec03c78601f4b55b82c8ed"
 metafile = true
@@ -111,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/botany-trees.pw.toml"
 hash = "fa592f14a11940c0762fa39782c09794c31bde0ba13b005a2c1a69843c338f75"
+metafile = true
+
+[[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "ffec0eb07da96e0cdb4c751814676510c9d495e82d290cd24b0f272f5994c62c"
 metafile = true
 
 [[files]]
@@ -380,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "413d504f5b032628c7e240d2c669c692685f5707f63eca045f4b27a5ac4e66ce"
+metafile = true
+
+[[files]]
+file = "mods/missing-wilds.pw.toml"
+hash = "78a613056ab0f50014b0b8de438d44bf6be0ff9e9d8c6bcf7ce8a3e15cd0176b"
 metafile = true
 
 [[files]]
