@@ -244,6 +244,11 @@ hash = "a856d1364cb04d23f0b4258ad46c5483cdd878ace2c8409c7f20b803f2159f5d"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "1d1c62244ce737c9ac7e28d23c9d26fbc08ced9dd40467f628662e5c615d547a"
 metafile = true
@@ -429,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "6eee76254a98d89d1b6d0481ef1990e2ae92a7e97bfe5e9569bfff468b95f547"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
