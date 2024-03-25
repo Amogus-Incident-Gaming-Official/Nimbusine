@@ -154,6 +154,11 @@ hash = "543f895543ad347bc21fc1c5d812135f89ebf3e723a42f52cd27ae44ed81159d"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "4570d2a0795ae991299fb19575a367a848024f81a5bf450f380534f3a04874ee"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "07969aef1ce948aacc3296743969126d7d8bf96197e17e022a2bae64d3def458"
 metafile = true
@@ -473,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "cee408077c7833b6665f515e4c4d98001496e7dd7ff13f41c6db225216fecb05"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "798736c2992b4c47d0fe3bd146ff105a2a707d75e9dc0f87ca13e157ac1df32e"
 metafile = true
 
 [[files]]
