@@ -299,6 +299,11 @@ hash = "c66dc60134f9519e76bf881532e417d46638292529cecaf9cc8d6be2b4c605b5"
 metafile = true
 
 [[files]]
+file = "mods/guide-api.pw.toml"
+hash = "7b5ccbf1230618a2b1cfd7ec9b0ceecfcb0bbc8444ed5d022cb3ae4b13e41c51"
+metafile = true
+
+[[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "0259ff86b5c5655cbe9a25c626dcabc76cc049a82cce44af54a652fd4474f021"
 metafile = true
