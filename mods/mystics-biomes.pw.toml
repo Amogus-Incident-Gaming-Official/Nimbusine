@@ -1,0 +1,13 @@
+name = "Mystic's Biomes"
+filename = "mysticsbiomes-1.20.1-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kUpOjknA/versions/bElejzXl/mysticsbiomes-1.20.1-3.2.jar"
+hash-format = "sha1"
+hash = "ce610cd36b1b3be30d07692786e3e26b218fd435"
+
+[update]
+[update.modrinth]
+mod-id = "kUpOjknA"
+version = "bElejzXl"

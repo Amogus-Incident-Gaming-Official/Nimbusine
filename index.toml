@@ -437,6 +437,11 @@ hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
 metafile = true
 
 [[files]]
+file = "mods/mystics-biomes.pw.toml"
+hash = "2da309298c3620cc5e7aaf12fcab2346b4636aab30168d84437b3f948908d675"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "6eee76254a98d89d1b6d0481ef1990e2ae92a7e97bfe5e9569bfff468b95f547"
 metafile = true
@@ -449,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
+metafile = true
+
+[[files]]
+file = "mods/nyctophobia.pw.toml"
+hash = "f4890e22a2a25a5fc7e3dc60f10140a3e7627406bec59e066768c21c6926f11b"
 metafile = true
 
 [[files]]
@@ -558,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a223144b40f462c2675ecdd193509a27f754b6fd2d1c5c4c4baf2204f1d99924"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15883b352385c520391c036ae0965269c413e3e6fbd6f12dd8c38618db25c2b5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Nyctophobia"
+filename = "Nyctophobia_1.6_(FORGE)_for_1.20+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k5jeNqWg/versions/mq21a1qZ/Nyctophobia_1.6_%28FORGE%29_for_1.20%2B.jar"
+hash-format = "sha1"
+hash = "ac73701cb9d6e736845e14330c107976c19f03f9"
+
+[update]
+[update.modrinth]
+mod-id = "k5jeNqWg"
+version = "mq21a1qZ"
