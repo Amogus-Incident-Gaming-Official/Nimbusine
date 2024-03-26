@@ -580,6 +580,11 @@ hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
 
 [[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "792d9f06ecd08a3b5fcfab4867a899061df92a4695cc6bea6c4dc4afd960720d"
+metafile = true
+
+[[files]]
 file = "mods/starbunclemania.pw.toml"
 hash = "e0723ca089a20463b7398ee5df3c7de23eb5c498939b3f4deb1d98470f54ad37"
 metafile = true
