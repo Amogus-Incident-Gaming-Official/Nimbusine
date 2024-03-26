@@ -9,8 +9,8 @@ file = "config/paxi/datapacks/Bliss 1.4.1.zip"
 hash = "c91fcf3189a96f69fd0a56f0b0a031a556961641fe55d699a71c24938ecb8446"
 
 [[files]]
-file = "config/paxi/datapacks/Rust's Origins Rework 1.2.3.zip"
-hash = "48d02604aee9e82daf0c808d23f81aa89ada4669211a767a3598917866368a11"
+file = "config/paxi/datapacks/Rust's Origins Rework 1.2.4.zip"
+hash = "93d25a0932912769fdd3295449ce25780be9f35d35c98f0ddccfb260d9c814f7"
 
 [[files]]
 file = "mods/alexs-caves.pw.toml"
