@@ -477,6 +477,11 @@ hash = "6215edafc91907e5eda9ca3abab113456fd3f8675b6acdbd58282fc3fcd6a3bb"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes-forge.pw.toml"
+hash = "30769e420573bf734328cd0d10b4039305adbc882e71efd61ad673e55e1d8b70"
+metafile = true
+
+[[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "56f021d20d5fa9c7ec5ee6e734b0aeda7805e529c9f20dafb98fecfe2ec156e7"
 metafile = true
@@ -498,6 +503,11 @@ hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "a634ed3bb58905429524f6868faea9404ec2bc44e5411734bb58a18a401accf8"
 metafile = true
 
 [[files]]
@@ -608,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/theurgy.pw.toml"
 hash = "bfbd1776c6e259b6e1368989dd5163a21dea13c5f447913f9b5a0ded99ebb727"
+metafile = true
+
+[[files]]
+file = "mods/tinkerers-statures.pw.toml"
+hash = "0297277ea3edfd7303153212c8ed6504b8f03fd841a489b19a9730a6732e5934"
 metafile = true
 
 [[files]]
