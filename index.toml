@@ -83,6 +83,11 @@ hash = "5b73728cb17bf6fbcfcf2740e75255f766b69c964ea57a070e7c580d490d221f"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "eb691b8c327e3a44ce4fc099b19b0a2af8ec0b62de1cb3eaa30d60954a2de692"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "d349418229113f3ee294443bfca547e5b252da3849f7bcbfa10ab5177bdf4dde"
 metafile = true
@@ -220,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "656fa0c1294a426864918393413c2dbf9720e674fe4f5e5d26ec931e0e901306"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "0b4080241fd7fd10b53f79cd7a6e871b606d06a5df402ba9a259188946657a32"
 metafile = true
 
 [[files]]
