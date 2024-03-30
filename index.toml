@@ -85,6 +85,18 @@ file = "config/paxi/datapacks/Rust's Origins Rework 1.2.4.zip"
 hash = "93d25a0932912769fdd3295449ce25780be9f35d35c98f0ddccfb260d9c814f7"
 
 [[files]]
+file = "defaultconfigs/ftbultimine-server.snbt"
+hash = "ef15c3f7c929db0c8e2a27984a251569b9748a663dd8738590783225e117c53f"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "60a43a512d49ccd4dca9c6a8eb7ad187bba3ef1ff86d4dd520ccb12dfa357da6"
+
+[[files]]
+file = "defaultconfigs/vampirism-server.toml"
+hash = "9eac1651ee2293194a1c7827ef7eca283d54b66affbe00accea8e93e6938b277"
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
