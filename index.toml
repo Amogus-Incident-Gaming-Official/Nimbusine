@@ -90,7 +90,7 @@ hash = "ef15c3f7c929db0c8e2a27984a251569b9748a663dd8738590783225e117c53f"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
-hash = "60a43a512d49ccd4dca9c6a8eb7ad187bba3ef1ff86d4dd520ccb12dfa357da6"
+hash = "b89a8a42e12dbc127286e7d42e28579d198724934bc713fcd999ba212502e263"
 
 [[files]]
 file = "defaultconfigs/vampirism-server.toml"
@@ -287,6 +287,11 @@ hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
+file = "mods/crossroads.pw.toml"
+hash = "4d80a2f9c077802dbcab4bb8a51b3c88b98aef382d91dd196bdf12b549dcd3da"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
 metafile = true
@@ -364,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/essentialsmod.pw.toml"
+hash = "cdfc1b320e3c72542c36572d9daceba5c7469b6b0bc8f9340aa4da10b9453f88"
 metafile = true
 
 [[files]]
@@ -466,6 +476,11 @@ hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "c2269a9e657db40350aea860ad7b115abbc8aaad5a131d68b503841751ad182b"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "5fa776ca9341cf79bd5da8d91eac21a3182cba757cf19702e76749268cac3791"
 metafile = true
@@ -493,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
+metafile = true
+
+[[files]]
+file = "mods/laserio.pw.toml"
+hash = "9d85a210e77661032cfbcd930059096be6cfb6afd9abedde21bcdfa4e5b25e54"
 metafile = true
 
 [[files]]
