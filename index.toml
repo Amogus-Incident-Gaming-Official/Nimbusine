@@ -486,6 +486,11 @@ hash = "5fa776ca9341cf79bd5da8d91eac21a3182cba757cf19702e76749268cac3791"
 metafile = true
 
 [[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "bf404059848bec2c6b0c3a915668ec04d46000a5d8520debb62fa1fc5d2a6c99"
+metafile = true
+
+[[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "b89733a48c29082434f6bce4616c0f528c3a5b40ee3b807f86a9f8241e05587b"
 metafile = true
@@ -846,11 +851,6 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "4fccc84224b67440d7ea5a6b5fd37825569dca3b39640d052e1a370a01083887"
-metafile = true
-
-[[files]]
-file = "mods/theurgy.pw.toml"
-hash = "bfbd1776c6e259b6e1368989dd5163a21dea13c5f447913f9b5a0ded99ebb727"
 metafile = true
 
 [[files]]
