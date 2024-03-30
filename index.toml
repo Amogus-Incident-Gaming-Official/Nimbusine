@@ -322,11 +322,6 @@ hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
 metafile = true
 
 [[files]]
-file = "mods/embedded_assets.pw.toml"
-hash = "8232ec8ce86bf3aaf2b11b9e03f7925722bae224d922ad27ecfc22210cb776a5"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "1a6d0711f27c72fd535fef344cfda555859fdfc59951c2bd25730308dbb4c8e5"
 metafile = true
@@ -721,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "e02cf24e798f2a3d5bcf83440a8a220a62871a326753f7991d61b8c6113791f5"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "b2f208a76cad06abe320fba893adfeb40e2cc1064e4560155657f2229b2387ab"
 metafile = true
 
 [[files]]
