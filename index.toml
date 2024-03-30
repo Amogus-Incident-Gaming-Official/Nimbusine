@@ -5,6 +5,78 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "f323fe7c1eda5fdf2490e7b83b47695380bfa8c6bb49c21c9604c8d12fcd4199"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/basic_crossbow.json"
+hash = "3f3b4a2fb3c13b1326c8a81e9c1a013b1f0709388b26fdf1bf4a8590066f2a56"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/basic_double_crossbow.json"
+hash = "3f3b4a2fb3c13b1326c8a81e9c1a013b1f0709388b26fdf1bf4a8590066f2a56"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/basic_tech_crossbow.json"
+hash = "3f3b4a2fb3c13b1326c8a81e9c1a013b1f0709388b26fdf1bf4a8590066f2a56"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/enhanced_crossbow.json"
+hash = "3f3b4a2fb3c13b1326c8a81e9c1a013b1f0709388b26fdf1bf4a8590066f2a56"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/enhanced_double_crossbow.json"
+hash = "3f3b4a2fb3c13b1326c8a81e9c1a013b1f0709388b26fdf1bf4a8590066f2a56"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/enhanced_tech_crossbow.json"
+hash = "3f3b4a2fb3c13b1326c8a81e9c1a013b1f0709388b26fdf1bf4a8590066f2a56"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/heart_seeker_enhanced.json"
+hash = "b86ad53f7f73ab97153cff9ac5474da9271695c194e5314fbe06df029e09bc2e"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/heart_seeker_normal.json"
+hash = "b86ad53f7f73ab97153cff9ac5474da9271695c194e5314fbe06df029e09bc2e"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/heart_seeker_ultimate.json"
+hash = "b86ad53f7f73ab97153cff9ac5474da9271695c194e5314fbe06df029e09bc2e"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/heart_striker_enhanced.json"
+hash = "0d3f342e3314fca09d28f4fc1716a3932a31e54784e75c6e07542aa4658effb3"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/heart_striker_normal.json"
+hash = "0d3f342e3314fca09d28f4fc1716a3932a31e54784e75c6e07542aa4658effb3"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/heart_striker_ultimate.json"
+hash = "0d3f342e3314fca09d28f4fc1716a3932a31e54784e75c6e07542aa4658effb3"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/hunter_axe_enhanced.json"
+hash = "0a6023bdd97fd82ae544a44d27e93c0139b8fea542e6debef764e0acce1a9c1b"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/hunter_axe_normal.json"
+hash = "0a6023bdd97fd82ae544a44d27e93c0139b8fea542e6debef764e0acce1a9c1b"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/hunter_axe_ultimate.json"
+hash = "0a6023bdd97fd82ae544a44d27e93c0139b8fea542e6debef764e0acce1a9c1b"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/pitchfork.json"
+hash = "aa1608d8e4c0c51d314590e4c20afac32ccece3102cef484e30dd2c75dd2fe50"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/stake.json"
+hash = "e6a2964d012440505a6901c008b99ec9f89d8ae62324b88d591c96b5f1b4562e"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
+hash = "df02c2bccbf70090117839502ec5d486ca61e5c35f4be9cf8bc7b20303de83b4"
+
+[[files]]
 file = "config/paxi/datapacks/Bliss 1.4.1.zip"
 hash = "c91fcf3189a96f69fd0a56f0b0a031a556961641fe55d699a71c24938ecb8446"
 

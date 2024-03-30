@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "name": "AIGO Tweaks",
+        "id": "aigo_tweaks",
+        "pack_format": 15,
+        "version": "1.0.0",
+        "authors": [
+            "verbina29"
+        ],
+        "description": "A collection of various tweaks needed for AIGO's Nimbusine. Currently only contains Vampirism support for Better Combat."
+    }
+}
