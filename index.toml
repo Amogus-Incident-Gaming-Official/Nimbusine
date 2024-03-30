@@ -125,11 +125,6 @@ hash = "a970ca6ffa0d4d985bc0bcb2e6b51c8a156e6e2a1118c924a4d5c213c9afd15c"
 metafile = true
 
 [[files]]
-file = "mods/arcane-abilities.pw.toml"
-hash = "59b6bb84098fa72089d97399cd78b5c2a8339438350a7c5a5670246aa6a00c15"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
