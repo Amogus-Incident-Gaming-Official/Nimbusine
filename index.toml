@@ -271,6 +271,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "9744200222c77dfa72a0327500c97e62c9dddb4a60302df08fcb27489a1b862b"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
 metafile = true
@@ -286,8 +291,38 @@ hash = "4570d2a0795ae991299fb19575a367a848024f81a5bf450f380534f3a04874ee"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "b36aa3a2e060c57c754a65487c36ac5fdff6bab8b9b22091d2b754fc0c6683be"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "07969aef1ce948aacc3296743969126d7d8bf96197e17e022a2bae64d3def458"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "94186d7b8da8352416a87d4be3c04b69c5dd38d789aef57ce8e6e503ab5389a1"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "2e5277e3399781103d429cde92562a6b70ad573b7cb0fa360239c6351c8a81d9"
+metafile = true
+
+[[files]]
+file = "mods/create-oppenheimered.pw.toml"
+hash = "bb676096df4c62b95b36d5bda9f24f9e4a8b250e8dd407b2685a2b4322a40028"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "4c6fbf3f3ea6f6fc907d9673a77dd991776c55ad7a25d0011034d66624616518"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "39f884f7ca07f6b390a4b9a5dca7b6e187eebfe03069656fc7f9f9e342c1602d"
 metafile = true
 
 [[files]]
