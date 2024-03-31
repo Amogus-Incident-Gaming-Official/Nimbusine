@@ -5,6 +5,10 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "f323fe7c1eda5fdf2490e7b83b47695380bfa8c6bb49c21c9604c8d12fcd4199"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Origins 1.4.26.zip"
+hash = "bf1ca56f7672681ac769de7ee6a5e8bbd70c55e492b5bdfcc90105ea13cfc49c"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/basic_crossbow.json"
 hash = "3f3b4a2fb3c13b1326c8a81e9c1a013b1f0709388b26fdf1bf4a8590066f2a56"
 
@@ -252,6 +256,11 @@ hash = "3bfb89c4d79052b3052da2713e3250225851e362b8979f8534538c1fdec257f7"
 metafile = true
 
 [[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "dee714d069c7256a3eb634135a1334d1c7b5efbe6d29e517b7090f9e76e39503"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
 metafile = true
@@ -359,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "d11fc9aac19a0a0af26884321b1b4205e55120e9583bb7323e9cbdb25925fbba"
 metafile = true
 
 [[files]]
@@ -726,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "fb3540211bd68b5010dbdd00e22b8061b01681cdea43e950f1ff1c9e85045bf5"
 metafile = true
 
 [[files]]
