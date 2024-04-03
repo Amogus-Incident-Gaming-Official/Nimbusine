@@ -486,11 +486,6 @@ hash = "7bef7acb5b13ec858c5554a8c3d1fde694fa934a58b22e2aa5770989218ca064"
 metafile = true
 
 [[files]]
-file = "mods/goety.pw.toml"
-hash = "ed6777f2302b74ca744cd193e4b06ad2ed268361ae6432710fe76801c3b0cb83"
-metafile = true
-
-[[files]]
 file = "mods/guide-api.pw.toml"
 hash = "7b5ccbf1230618a2b1cfd7ec9b0ceecfcb0bbc8444ed5d022cb3ae4b13e41c51"
 metafile = true
