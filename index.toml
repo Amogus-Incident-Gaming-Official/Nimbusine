@@ -486,6 +486,11 @@ hash = "7bef7acb5b13ec858c5554a8c3d1fde694fa934a58b22e2aa5770989218ca064"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "15b1a9e5e39e904e4a668da8a048485fac5fd7cd259fc6999aedbf05fb6c3fe4"
+metafile = true
+
+[[files]]
 file = "mods/guide-api.pw.toml"
 hash = "7b5ccbf1230618a2b1cfd7ec9b0ceecfcb0bbc8444ed5d022cb3ae4b13e41c51"
 metafile = true
@@ -850,6 +855,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
 
 [[files]]
