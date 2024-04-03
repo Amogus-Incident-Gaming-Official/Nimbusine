@@ -496,11 +496,6 @@ hash = "7b5ccbf1230618a2b1cfd7ec9b0ceecfcb0bbc8444ed5d022cb3ae4b13e41c51"
 metafile = true
 
 [[files]]
-file = "mods/hammer-lib.pw.toml"
-hash = "0259ff86b5c5655cbe9a25c626dcabc76cc049a82cce44af54a652fd4474f021"
-metafile = true
-
-[[files]]
 file = "mods/hexal.pw.toml"
 hash = "9cda1dcb4c304e790e45b7a7908de99554a3a6e55d7756a2c9f627b7b35097b6"
 metafile = true
@@ -610,11 +605,6 @@ hash = "df5dc8f5978d6b0d6ad655784489e3aaa698e975a5b55628bb2fbde9aa36626c"
 metafile = true
 
 [[files]]
-file = "mods/mafglib.pw.toml"
-hash = "cc936594e8fa7df93eaf97933a0b37bb4c1eb30e26ef3e22dacef2837cd49433"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -642,11 +632,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "91819e8cff5122b48bb26ee674a701264c9de18b73bcfb04f274662722f65e40"
-metafile = true
-
-[[files]]
-file = "mods/modonomicon.pw.toml"
-hash = "daf14b4f7247ba2ee444e120682dee425a663c640803c6a2c70828f4dd54e25b"
 metafile = true
 
 [[files]]
