@@ -392,17 +392,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5fe2b73d33efd03a5b487b10d98415318a89faf63d74965e0402b82b464c0f24"
+hash = "dd6a1bc770d0d32d11439457b8cf69a0fd3fb91316b9d01ce50daee672632b53"
 metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
-hash = "68d1babb9367d13f4ac375ea41cd4f1affaf12a5ff047386ab2c6aee83c9a023"
+hash = "4669713a422d7207ec522f5b4077605d104aeda82ad11c746669c396f3e1f152"
 metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
-hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
+hash = "4d56498d822f43503545ce5f80318a61e1479403b5b2b178c50dd4afadd879c6"
 metafile = true
 
 [[files]]
