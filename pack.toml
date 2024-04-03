@@ -1,13 +1,13 @@
 name = "Nimbusine"
-author = "AIGO Team, but really just Verbina29"
-version = "1.0.0"
+author = "AIGO Team"
+version = "1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4aab6715b2739c4e77809bcdac78d9fc132c8ce34286b519ad8320a8f899304a"
+hash = "dccf9d4ae13875d8911e497bb668be2ebb2e7d0274ddf503f7a097816cf7d2df"
 
 [versions]
 minecraft = "1.20.1"
-neoforge = "47.1.101"
+neoforge = "47.1.103"
