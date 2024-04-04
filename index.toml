@@ -281,11 +281,6 @@ hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "3bfb89c4d79052b3052da2713e3250225851e362b8979f8534538c1fdec257f7"
-metafile = true
-
-[[files]]
 file = "mods/compressedcreativity.pw.toml"
 hash = "dee714d069c7256a3eb634135a1334d1c7b5efbe6d29e517b7090f9e76e39503"
 metafile = true
@@ -518,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e572156c4e1b7e49182ab335f5ffd5caf4d35627bc47880a3cca5e47f4e33b03"
-metafile = true
-
-[[files]]
-file = "mods/get-it-together-drops.pw.toml"
-hash = "7bef7acb5b13ec858c5554a8c3d1fde694fa934a58b22e2aa5770989218ca064"
 metafile = true
 
 [[files]]
