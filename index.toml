@@ -5,8 +5,8 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "f323fe7c1eda5fdf2490e7b83b47695380bfa8c6bb49c21c9604c8d12fcd4199"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 1.4.26.zip"
-hash = "bf1ca56f7672681ac769de7ee6a5e8bbd70c55e492b5bdfcc90105ea13cfc49c"
+file = "config/paxi/datapacks/AIGO Origins 1.4.27.zip"
+hash = "2f618fe52b0b05f5a6e4b7ea5bfef7ae4921a4bb3e72f9595c95b80b458b67af"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/basic_crossbow.json"
