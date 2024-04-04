@@ -101,6 +101,36 @@ file = "defaultconfigs/vampirism-server.toml"
 hash = "9eac1651ee2293194a1c7827ef7eca283d54b66affbe00accea8e93e6938b277"
 
 [[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "002733123169ef288cadeba3364fe00a63cf183ea3217f9972b72e84b318620b"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
+hash = "06ea16cbcfe022c8e4615b2725105e20d9d961bcb0b7e777b9565f4469189bfe"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "6f9f440c3434d445fbd01130cf8c938a82e89a80c3ef3148cffe22cb16ec1774"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "70c63b75bc3f224c4e9377258ed3fabe81b4c27be6c84bae2eb4cc048940dbeb"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "625b35cecb2a734b4660e54162d794693e5e68d837c08b929a36977152e55792"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks.pw.toml"
+hash = "5c459231e73051891eedb001f475493fbfd2fffafeaaef6fbb10ed33390230a0"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
