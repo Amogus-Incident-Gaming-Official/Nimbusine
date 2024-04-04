@@ -366,6 +366,11 @@ hash = "701c111cd7990a5a80eaf1f255793cae5da754acc888b10ced61a58b49c7039d"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "ae5ed48aa97aebbb0daac8b58190a465d46ad563a8a154eab028e6f24e88d44e"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
 metafile = true
