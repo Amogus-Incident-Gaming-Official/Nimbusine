@@ -121,16 +121,6 @@ hash = "70c63b75bc3f224c4e9377258ed3fabe81b4c27be6c84bae2eb4cc048940dbeb"
 metafile = true
 
 [[files]]
-file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
-hash = "625b35cecb2a734b4660e54162d794693e5e68d837c08b929a36977152e55792"
-metafile = true
-
-[[files]]
-file = "mods/adaptive-performance-tweaks.pw.toml"
-hash = "5c459231e73051891eedb001f475493fbfd2fffafeaaef6fbb10ed33390230a0"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
