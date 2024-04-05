@@ -5,6 +5,10 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "f323fe7c1eda5fdf2490e7b83b47695380bfa8c6bb49c21c9604c8d12fcd4199"
 
 [[files]]
+file = "config/increasemobcap-common.toml"
+hash = "b85051d95b201d06bcb147cfc24b43bfcc2824fded057180b0ca95e19e0bdb71"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Origins 1.4.29.zip"
 hash = "38092f58e06ae93aead70372c2f6ed5956989b0053e861ff7ca53a082610ac87"
 
@@ -647,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "86a82434eaea6987f956959b0fd0c351359d07d2a08bc5b0ccb669d35248b776"
+metafile = true
+
+[[files]]
+file = "mods/mob-cap-booster.pw.toml"
+hash = "ef781cedb18462bea0ed7501c065e09680a175979101f9c574f03b972b3b7229"
 metafile = true
 
 [[files]]
