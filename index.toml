@@ -505,6 +505,11 @@ hash = "1eece46dbaa953c27cb398180534bc71bffc0fc40bced2718aeaeb929a402647"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "eead7060559eb04038da5815e026545af5cd040fb5d2702aa357b186c046b1d6"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
 metafile = true
@@ -1039,6 +1044,11 @@ metafile = true
 [[files]]
 file = "mods/tome-of-blood-rebirth.pw.toml"
 hash = "b22da6c7e7b31016cde8c5b3c8757e075b0fb2130da59193fb51544232b592ac"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "3c024c63263f4f879d604a01fe13f81119565907f0883f2d7eb53a2cc413546c"
 metafile = true
 
 [[files]]
