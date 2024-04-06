@@ -803,6 +803,11 @@ hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
 metafile = true
 
 [[files]]
+file = "mods/online-detector.pw.toml"
+hash = "6b6dad21e52efded0f19315cd2378870bebb4f4cce5ccb9a85771ee368dabddd"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "6215edafc91907e5eda9ca3abab113456fd3f8675b6acdbd58282fc3fcd6a3bb"
 metafile = true
@@ -909,6 +914,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
+metafile = true
+
+[[files]]
+file = "mods/server-tab-info.pw.toml"
+hash = "31f369c3eec3e63b727aafba01207f562523eb496060ae8165ad43fe04918faa"
 metafile = true
 
 [[files]]
