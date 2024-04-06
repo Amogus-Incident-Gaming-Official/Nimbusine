@@ -125,6 +125,11 @@ hash = "70c63b75bc3f224c4e9377258ed3fabe81b4c27be6c84bae2eb4cc048940dbeb"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "f981f15795d9edd1268e12aa733b2e4a3fb6f96f783467d670dd4203a40ab72c"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
@@ -152,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "13a3593cd47946c34d07c2a379f0ec70a7dcdb11b6260a676b04ff95c47f8195"
 metafile = true
 
 [[files]]
@@ -262,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/caupona.pw.toml"
 hash = "bd96c93d351c2a5b57795800967a562bb63a0d84163d364fc36b4ad050ebde18"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
 metafile = true
 
 [[files]]
@@ -392,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "a0c86423073eeea3231cfc31b6b53f7e30c55a3332f3b7151dac9fe00213e78f"
 metafile = true
 
 [[files]]
@@ -892,6 +912,11 @@ hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "cf933a82aef5731f465dc66028144cd3c52be44287203fd5692e874655841534"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
@@ -929,6 +954,41 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "0e53135656b2717365a90bef83c0e433664fdf144927dbc33347f091f91479a9"
+metafile = true
+
+[[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "7b86c138ab74afff0648607d821603256d0625341a6829674bd5eace393abf6a"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "9e4ae142be277f08c4ac01aea83bb4edb90feb445890b2603fc7dc254f1e823d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "88c732d3804d749d8314bb9e8d0749b5711b47068e2582c559c9e093488d0519"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "7ab7310d8e23e297e73fa93475c779c091ee1844738f233b20a5b05a4a2752a5"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "e3dcd8211729e5fa570499ff2602c91f27d3be6db687c342f76735e8581a9f9d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "9269edec00e3f0bb8011df93ff70eb9e9d6462ec3ae679423c80477ef03ce451"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "1a5f6ac96bf75bf37c8e487beb1754dc2522884b2b8ab5ebacc3ee9477e0e0e1"
 metafile = true
 
 [[files]]
