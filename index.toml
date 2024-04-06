@@ -155,6 +155,16 @@ hash = "f981f15795d9edd1268e12aa733b2e4a3fb6f96f783467d670dd4203a40ab72c"
 metafile = true
 
 [[files]]
+file = "mods/aether-lost-content.pw.toml"
+hash = "d4326833506f9c3c2884f363b34bc2116d1983483c2fc20db8d6e5542be443a6"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "342c4150cf2a14b09785131d8c44fb99c4c63e7c1e8e4cd0198f8ae923262515"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
@@ -974,6 +984,11 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "cf933a82aef5731f465dc66028144cd3c52be44287203fd5692e874655841534"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "9512f8e03078ae2fff3c2409b2cf9189c6ca89ce5e6c3ace6a2f9cf5362eef02"
 metafile = true
 
 [[files]]
