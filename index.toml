@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "4b31bd7d6cf6f11abcceba9fe3d8f07fae21cd7ea833abf49e1659be55e7c296"
+
+[[files]]
 file = "config/apotheosis/apotheosis.cfg"
 hash = "f323fe7c1eda5fdf2490e7b83b47695380bfa8c6bb49c21c9604c8d12fcd4199"
+
+[[files]]
+file = "config/crossroads-server.toml"
+hash = "7e527f5441dd12d4cda222145449771236dfb3ae7b8cc2fc4a52a785c64d6421"
 
 [[files]]
 file = "config/increasemobcap-common.toml"
@@ -93,8 +101,20 @@ file = "config/paxi/datapacks/Rust's Origins Rework 1.2.4.zip"
 hash = "93d25a0932912769fdd3295449ce25780be9f35d35c98f0ddccfb260d9c814f7"
 
 [[files]]
+file = "config/thermal-common.toml"
+hash = "baf0d3134d39135f36c8a87db3bc7f74c6f36a5da11610535999b4ebbc111569"
+
+[[files]]
+file = "config/werewolves-common.toml"
+hash = "e4693ad9a6b7de1735dcd01ca72971ed764a08fea3b66a2a9e8d158f1e14599a"
+
+[[files]]
 file = "defaultconfigs/ftbultimine-server.snbt"
 hash = "ef15c3f7c929db0c8e2a27984a251569b9748a663dd8738590783225e117c53f"
+
+[[files]]
+file = "defaultconfigs/immersiveengineering-server.toml"
+hash = "b62545c5d69031b4f07a47b873742010483be74125932dbe9fd0a85f02a7b595"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
