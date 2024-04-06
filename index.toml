@@ -495,11 +495,6 @@ hash = "cdfc1b320e3c72542c36572d9daceba5c7469b6b0bc8f9340aa4da10b9453f88"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "5791fdcbab636b28de97f328dd9e69e8d3627a87292113e1e83889f90b76f15e"
-metafile = true
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "1eece46dbaa953c27cb398180534bc71bffc0fc40bced2718aeaeb929a402647"
 metafile = true
@@ -1059,11 +1054,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "3c024c63263f4f879d604a01fe13f81119565907f0883f2d7eb53a2cc413546c"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
 metafile = true
 
 [[files]]
