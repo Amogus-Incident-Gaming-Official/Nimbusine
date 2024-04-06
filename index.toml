@@ -887,11 +887,6 @@ hash = "7f7e22ca326e1ddabd7344cd18d71a4099de775b47e9ee75d4be58a64f2c3af4"
 metafile = true
 
 [[files]]
-file = "mods/rac-compat.pw.toml"
-hash = "6c2c5618d141f2fa723e8e70e55731cf68edb116fec2cac6ded6df44d1d333b1"
-metafile = true
-
-[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "b2f208a76cad06abe320fba893adfeb40e2cc1064e4560155657f2229b2387ab"
 metafile = true
