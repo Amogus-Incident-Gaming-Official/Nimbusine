@@ -410,11 +410,6 @@ hash = "8e15bb179fe529f6f462dc10fab83d7f9f73110740f40fb645a49c977b972d62"
 metafile = true
 
 [[files]]
-file = "mods/dimensional-threads.pw.toml"
-hash = "87e3b63a3c7ca824946e03e0212c5ab9706c5632bfc7304759addb0e2b89529c"
-metafile = true
-
-[[files]]
 file = "mods/do-api.pw.toml"
 hash = "656fa0c1294a426864918393413c2dbf9720e674fe4f5e5d26ec931e0e901306"
 metafile = true
