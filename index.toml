@@ -405,6 +405,11 @@ hash = "8e15bb179fe529f6f462dc10fab83d7f9f73110740f40fb645a49c977b972d62"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-threads.pw.toml"
+hash = "87e3b63a3c7ca824946e03e0212c5ab9706c5632bfc7304759addb0e2b89529c"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "656fa0c1294a426864918393413c2dbf9720e674fe4f5e5d26ec931e0e901306"
 metafile = true
@@ -669,6 +674,11 @@ hash = "df5dc8f5978d6b0d6ad655784489e3aaa698e975a5b55628bb2fbde9aa36626c"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "11076d97e1627a4355d0bc985896766d50f9161e38f22f50a7abdbdad371e6ad"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "e10bacddaa7815b0ec925be8e07405f5cc0ae170a2b17bc749928987f0a17f36"
 metafile = true
@@ -760,6 +770,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
 metafile = true
 
 [[files]]
@@ -889,6 +904,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "a4ea4e2d3ac9d1fb1fd797abf402d8b04ad9b1a955fa26e07df9af51a16c9d0b"
 metafile = true
 
 [[files]]
@@ -1034,6 +1054,11 @@ metafile = true
 [[files]]
 file = "mods/vegan-delight.pw.toml"
 hash = "54efd38aed8ba73fd59bd46a95ebdea8bb9eb72a224c48a50b7fb3d39a4f4cee"
+metafile = true
+
+[[files]]
+file = "mods/vmp-forge.pw.toml"
+hash = "18e0f9f0df336b60d2e77fa72c57b1066356cfecc06a2cd1968ee40ceef085a3"
 metafile = true
 
 [[files]]
