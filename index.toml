@@ -97,6 +97,11 @@ file = "config/paxi/datapacks/Rust's Origins Rework 1.2.4.zip"
 hash = "93d25a0932912769fdd3295449ce25780be9f35d35c98f0ddccfb260d9c814f7"
 
 [[files]]
+file = "config/paxi/datapacks/idas-alexs-mobs.pw.toml"
+hash = "5b893e20f0533d7ebb4c5b2320f9d575b4abbe440a55be1827a457587284a0cd"
+metafile = true
+
+[[files]]
 file = "config/thermal-common.toml"
 hash = "baf0d3134d39135f36c8a87db3bc7f74c6f36a5da11610535999b4ebbc111569"
 
@@ -152,6 +157,16 @@ metafile = true
 [[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
+metafile = true
+
+[[files]]
+file = "mods/alexs-delight.pw.toml"
+hash = "99f6d4e46f784953d16aa1ce5f72327b21487dc0e27d3143c8a6b60c6d02381a"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
 metafile = true
 
 [[files]]
@@ -872,6 +887,11 @@ hash = "7f7e22ca326e1ddabd7344cd18d71a4099de775b47e9ee75d4be58a64f2c3af4"
 metafile = true
 
 [[files]]
+file = "mods/rac-compat.pw.toml"
+hash = "6c2c5618d141f2fa723e8e70e55731cf68edb116fec2cac6ded6df44d1d333b1"
+metafile = true
+
+[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "b2f208a76cad06abe320fba893adfeb40e2cc1064e4560155657f2229b2387ab"
 metafile = true
@@ -1064,6 +1084,11 @@ metafile = true
 [[files]]
 file = "mods/werewolves.pw.toml"
 hash = "27ce425a37a199d950bd64bd1194a6245b2c0c0202ca30ebcdb918b34bff2812"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "71be477b6c9fd252a7f2c9924e79b8512554e40413cdd3d69cbf493761c29ee5"
 metafile = true
 
 [[files]]
