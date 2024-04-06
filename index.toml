@@ -435,11 +435,6 @@ hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
 metafile = true
 
 [[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "a0c86423073eeea3231cfc31b6b53f7e30c55a3332f3b7151dac9fe00213e78f"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "aadc8c76d4879e1caa1d3616e8b672876fc24a81e6f6a2270226850cc676b16a"
 metafile = true
@@ -1064,11 +1059,6 @@ metafile = true
 [[files]]
 file = "mods/vegan-delight.pw.toml"
 hash = "54efd38aed8ba73fd59bd46a95ebdea8bb9eb72a224c48a50b7fb3d39a4f4cee"
-metafile = true
-
-[[files]]
-file = "mods/vmp-forge.pw.toml"
-hash = "18e0f9f0df336b60d2e77fa72c57b1066356cfecc06a2cd1968ee40ceef085a3"
 metafile = true
 
 [[files]]
