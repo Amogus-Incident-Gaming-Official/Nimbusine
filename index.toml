@@ -97,6 +97,11 @@ file = "config/paxi/datapacks/Rust's Origins Rework 1.2.5.zip"
 hash = "275eb9da44617b169e6554ab0003ff3724653e217c9d60dce1d53713b9897ec2"
 
 [[files]]
+file = "config/paxi/datapacks/aether-ruined-portals.pw.toml"
+hash = "d15fab4df075ae00f9d90966adf22f56688d44f186c7aefd5be112b60e3983ad"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/idas-alexs-mobs.pw.toml"
 hash = "5b893e20f0533d7ebb4c5b2320f9d575b4abbe440a55be1827a457587284a0cd"
 metafile = true
