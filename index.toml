@@ -10,7 +10,7 @@ hash = "f323fe7c1eda5fdf2490e7b83b47695380bfa8c6bb49c21c9604c8d12fcd4199"
 
 [[files]]
 file = "config/increasemobcap-common.toml"
-hash = "b85051d95b201d06bcb147cfc24b43bfcc2824fded057180b0ca95e19e0bdb71"
+hash = "e85dbc3ae5cbf750a6f9acbbf653a6240512842d9ebfb8e3d82d300479e134c5"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Origins 1.4.29.zip"
