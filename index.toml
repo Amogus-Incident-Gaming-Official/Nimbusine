@@ -448,6 +448,11 @@ hash = "8e15bb179fe529f6f462dc10fab83d7f9f73110740f40fb645a49c977b972d62"
 metafile = true
 
 [[files]]
+file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
+hash = "2a1eb851bbde3506fdb00e85466915ff5c19204aa220d487220d5671adb6913d"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "656fa0c1294a426864918393413c2dbf9720e674fe4f5e5d26ec931e0e901306"
 metafile = true
