@@ -1,6 +1,6 @@
 name = "When Dungeons Arise"
 filename = "DungeonsArise-1.20.1-2.1.57-release.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8DfbfASn/versions/wiCQJUDT/DungeonsArise-1.20.1-2.1.57-release.jar"
