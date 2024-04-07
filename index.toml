@@ -93,6 +93,10 @@ file = "config/paxi/datapacks/Bliss 1.4.1.zip"
 hash = "c91fcf3189a96f69fd0a56f0b0a031a556961641fe55d699a71c24938ecb8446"
 
 [[files]]
+file = "config/paxi/datapacks/Cirn_Origin.zip"
+hash = "0bd5eae64069f9db2f520b3e07a37b8be39cc6903406a84cbe6f1b4106652300"
+
+[[files]]
 file = "config/paxi/datapacks/Rust's Origins Rework 1.2.5.zip"
 hash = "275eb9da44617b169e6554ab0003ff3724653e217c9d60dce1d53713b9897ec2"
 
@@ -805,11 +809,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
 metafile = true
 
 [[files]]
