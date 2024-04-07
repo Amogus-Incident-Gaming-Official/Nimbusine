@@ -947,11 +947,6 @@ hash = "31f369c3eec3e63b727aafba01207f562523eb496060ae8165ad43fe04918faa"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "a4ea4e2d3ac9d1fb1fd797abf402d8b04ad9b1a955fa26e07df9af51a16c9d0b"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
