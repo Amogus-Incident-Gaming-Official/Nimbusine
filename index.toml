@@ -13,6 +13,10 @@ file = "config/increasemobcap-common.toml"
 hash = "e85dbc3ae5cbf750a6f9acbbf653a6240512842d9ebfb8e3d82d300479e134c5"
 
 [[files]]
+file = "config/mysticsbiomes-common.toml"
+hash = "b7697c4e80fef1b05b9b34f79deab6ab96101c627b8ae688cf9ab3219784c3e5"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Origins 1.4.29.zip"
 hash = "38092f58e06ae93aead70372c2f6ed5956989b0053e861ff7ca53a082610ac87"
 
