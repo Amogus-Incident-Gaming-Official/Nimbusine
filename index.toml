@@ -101,8 +101,8 @@ file = "config/paxi/datapacks/Cirn_Origin.zip"
 hash = "0bd5eae64069f9db2f520b3e07a37b8be39cc6903406a84cbe6f1b4106652300"
 
 [[files]]
-file = "config/paxi/datapacks/Rust's Origins Rework 1.2.5.zip"
-hash = "275eb9da44617b169e6554ab0003ff3724653e217c9d60dce1d53713b9897ec2"
+file = "config/paxi/datapacks/Rust's Origins Rework 1.2.6.zip"
+hash = "235923f9f831cc5476d5a276ace40820698045f9eb44c76331eefc7fb903ef1f"
 
 [[files]]
 file = "config/paxi/datapacks/aether-ruined-portals.pw.toml"
@@ -821,6 +821,11 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
+metafile = true
+
+[[files]]
 file = "mods/nyctophobia.pw.toml"
 hash = "f4890e22a2a25a5fc7e3dc60f10140a3e7627406bec59e066768c21c6926f11b"
 metafile = true
@@ -1042,11 +1047,6 @@ metafile = true
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
-metafile = true
-
-[[files]]
-file = "mods/the-bumblezone.pw.toml"
-hash = "0e53135656b2717365a90bef83c0e433664fdf144927dbc33347f091f91479a9"
 metafile = true
 
 [[files]]
