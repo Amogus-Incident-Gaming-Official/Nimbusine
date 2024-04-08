@@ -1050,6 +1050,11 @@ hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
 metafile = true
 
 [[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "5397e83014bce3af1914748d5436b0f5df01f61ec261ee332f187b08e76fb963"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "7b86c138ab74afff0648607d821603256d0625341a6829674bd5eace393abf6a"
 metafile = true
