@@ -140,7 +140,7 @@ hash = "b89a8a42e12dbc127286e7d42e28579d198724934bc713fcd999ba212502e263"
 
 [[files]]
 file = "defaultconfigs/vampirism-server.toml"
-hash = "9eac1651ee2293194a1c7827ef7eca283d54b66affbe00accea8e93e6938b277"
+hash = "48bcf1004c244383ddd7ba23dd958b902bb912538f6f8a5940b394c42a90269d"
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"

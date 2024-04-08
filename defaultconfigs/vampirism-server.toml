@@ -30,7 +30,7 @@
 	#Prevent vampire players to transform into a bat
 	batDimensionBlacklist = ["minecraft:the_end"]
 	#Allow players to destroy point of interest blocks in faction villages if they no not have the faction village
-	allowVillageDestroyBlocks = false
+	allowVillageDestroyBlocks = true
 	#Use the forge permission system for certain actions. Take a look at the wiki for more information
 	usePermissions = false
 
