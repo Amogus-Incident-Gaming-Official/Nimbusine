@@ -97,8 +97,8 @@ file = "config/paxi/datapacks/Bliss 1.4.2.zip"
 hash = "b1e9f2050e027202a6a4dcff9492dcb800e545dbe1d7a6ac18dd3c819ca73143"
 
 [[files]]
-file = "config/paxi/datapacks/Cirn_Origin.zip"
-hash = "0bd5eae64069f9db2f520b3e07a37b8be39cc6903406a84cbe6f1b4106652300"
+file = "config/paxi/datapacks/Cirn_Origin_1.1.0.zip"
+hash = "6d4982646b515c1d3fb413c3271eb71ad5c735a4e6f83727efda599ad35aa41e"
 
 [[files]]
 file = "config/paxi/datapacks/Rust's Origins Rework 1.2.8.zip"
