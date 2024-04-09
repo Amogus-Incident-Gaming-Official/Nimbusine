@@ -1,0 +1,13 @@
+name = "Transmog"
+filename = "transmog-forge-1.2.4+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Th33t82F/versions/Wjt17Bmi/transmog-forge-1.2.4%2B1.20.jar"
+hash-format = "sha1"
+hash = "af2db819a434cc4c3bb14bd94684cbc5fc1cdea6"
+
+[update]
+[update.modrinth]
+mod-id = "Th33t82F"
+version = "Wjt17Bmi"

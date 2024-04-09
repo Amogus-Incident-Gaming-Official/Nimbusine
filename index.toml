@@ -1100,6 +1100,11 @@ hash = "3c024c63263f4f879d604a01fe13f81119565907f0883f2d7eb53a2cc413546c"
 metafile = true
 
 [[files]]
+file = "mods/transmog.pw.toml"
+hash = "6ed93c9f325e5e987f551e2efe8649a5ca6d4c35728fd712506068b313fe73cc"
+metafile = true
+
+[[files]]
 file = "mods/vampirism.pw.toml"
 hash = "e826efc219428f08120ab461ba1d2e95354fc15ac1b5dd51fb88a0bfe5c29b1a"
 metafile = true
