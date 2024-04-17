@@ -538,6 +538,11 @@ hash = "cdfc1b320e3c72542c36572d9daceba5c7469b6b0bc8f9340aa4da10b9453f88"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "f78a9b706f9cc45b8f33768032475b8151a5e3336475762385e8aa804dcf8b92"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "1eece46dbaa953c27cb398180534bc71bffc0fc40bced2718aeaeb929a402647"
 metafile = true
