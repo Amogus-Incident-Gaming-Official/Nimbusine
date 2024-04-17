@@ -101,8 +101,8 @@ file = "config/paxi/datapacks/Cirn_Origin_1.1.0.zip"
 hash = "6d4982646b515c1d3fb413c3271eb71ad5c735a4e6f83727efda599ad35aa41e"
 
 [[files]]
-file = "config/paxi/datapacks/Rust's Origins Rework 1.2.8.zip"
-hash = "7150ce20f27f2c89fb61f2b71b32db4c62de2285b659c8fb93857accd9a3a3d0"
+file = "config/paxi/datapacks/Rust's Origins Rework 1.2.9.zip"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/paxi/datapacks/aether-ruined-portals.pw.toml"
