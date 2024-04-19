@@ -178,6 +178,11 @@ hash = "342c4150cf2a14b09785131d8c44fb99c4c63e7c1e8e4cd0198f8ae923262515"
 metafile = true
 
 [[files]]
+file = "mods/aetheric-tetranomicon.pw.toml"
+hash = "26a07a689e24d7fc9fd69370f01ff50b2ec5963d201265d42e1c61dcb0a3db0d"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
 metafile = true
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-additions.pw.toml"
-hash = "f33725e21312e386f61239b78d5513fe53c86f3d19e1245ebe697d4ba4903daf"
+hash = "1f2299030a8e86bec7e136473ee7608933413c57223488821d44027c86d5578a"
 metafile = true
 
 [[files]]
@@ -249,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elemental.pw.toml"
-hash = "6e70f15a5c5adc6c32035355cd418f0bd9b9f45063d9cb1e774d4f3d142611a1"
+hash = "cdc89fa5b74cf556ccd5bc191d235dc59cfb7557408d99da3527e4127a46e193"
 metafile = true
 
 [[files]]
@@ -782,6 +787,11 @@ hash = "004683b6990a62ac42bf370214da457d8ecbab6f35573ae6d3283606df785ef6"
 metafile = true
 
 [[files]]
+file = "mods/more-mobgriefing-options.pw.toml"
+hash = "9ae02df2bca3ec877aa58ab492716102e56f80b9d33ce33aad9c15fd30f7a87f"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas-forge-1.20.1-0.1.0-4.jar"
 hash = "fa42ab3dcae17a453aa19a39b6dd61389372fc832de8b544af0841410c13a1cf"
 
@@ -1045,6 +1055,11 @@ hash = "b52d09dd2dcf7bee1bfee38fff8102b1e4c98dc9adf23d546a160e3bfcfa5a83"
 metafile = true
 
 [[files]]
+file = "mods/tetranomicon.pw.toml"
+hash = "aad2682b1c54883c1a48e288782281b694c4ce1c630ddbfdad11ee2429562fbe"
+metafile = true
+
+[[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
 metafile = true
@@ -1112,6 +1127,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "3c024c63263f4f879d604a01fe13f81119565907f0883f2d7eb53a2cc413546c"
+metafile = true
+
+[[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
 metafile = true
 
 [[files]]
