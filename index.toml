@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-elemental.pw.toml"
-hash = "cdc89fa5b74cf556ccd5bc191d235dc59cfb7557408d99da3527e4127a46e193"
+hash = "21345de6562bb914df83bd93f84bd0ec102d7a81b3874f485a583987233435f9"
 metafile = true
 
 [[files]]
