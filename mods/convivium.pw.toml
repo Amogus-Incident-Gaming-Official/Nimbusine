@@ -1,0 +1,13 @@
+name = "Convivium"
+filename = "convivium-1.20.1-0.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa7090cddae628eb4dfb4029430558e8bf4f8fb3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5123209
+project-id = 905776

@@ -383,6 +383,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/convivium.pw.toml"
+hash = "7003b3ef7d4803fc589202e21b879f6d39721bcc3c37a41d07376d39ddd652f8"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "9744200222c77dfa72a0327500c97e62c9dddb4a60302df08fcb27489a1b862b"
 metafile = true
