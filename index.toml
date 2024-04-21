@@ -1165,6 +1165,11 @@ hash = "27ce425a37a199d950bd64bd1194a6245b2c0c0202ca30ebcdb918b34bff2812"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "2adeb2131d32d5a567faffb95e8320c9d6995b65025e3b079705b3dbd2f0c52c"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "762fc9b6eaf8e8698cea5d010e4b15e543d5d10b4a4b352b861674f52b32296f"
 metafile = true
