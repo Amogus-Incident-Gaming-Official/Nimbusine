@@ -115,6 +115,50 @@ hash = "5b893e20f0533d7ebb4c5b2320f9d575b4abbe440a55be1827a457587284a0cd"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_0.png"
+hash = "201a2c058c007729874abb234c84b1c8a1c1fd79161343804ef6a2c3e92abb40"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_1.png"
+hash = "d465ffc742e2b3ebafad21cb0bfd71fca54dbb9af9d5199d6a34ff933c418e8c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_2.png"
+hash = "d465ffc742e2b3ebafad21cb0bfd71fca54dbb9af9d5199d6a34ff933c418e8c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_3.png"
+hash = "d8359465204ddeabfb808dba1aaa475457a51d0cddbc893edc5835497f196eff"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_4.png"
+hash = "e5326a66d3ac0f692b06dc94722a02dc9e3abed72f1847156abdce16e3fb8b2c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_5.png"
+hash = "795ee26d2dbbb6744d7207ec9223ac7143d6c6ae73ebb207ce645779ad2c2157"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_6.png"
+hash = "0fa185e7515644eb44878fea96a40b50b7b28ec6eead2f388049de8f0038a6ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_7.png"
+hash = "0fa185e7515644eb44878fea96a40b50b7b28ec6eead2f388049de8f0038a6ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_8.png"
+hash = "0fa185e7515644eb44878fea96a40b50b7b28ec6eead2f388049de8f0038a6ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/assets/vampirism/textures/item/blood_bottle_9.png"
+hash = "42bb87b9f09ee070c6fcb67bb51349ddf0135270b1f793c9992743b16a431e25"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/pack.mcmeta"
+hash = "60778a244348b07ce9967011e70b8dd2669667632a77fee3a8943d57449f017b"
+
+[[files]]
 file = "config/thermal-common.toml"
 hash = "baf0d3134d39135f36c8a87db3bc7f74c6f36a5da11610535999b4ebbc111569"
 
