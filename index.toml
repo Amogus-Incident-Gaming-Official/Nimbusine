@@ -207,6 +207,11 @@ hash = "70c63b75bc3f224c4e9377258ed3fabe81b4c27be6c84bae2eb4cc048940dbeb"
 metafile = true
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "8eb1198031bdfd7d084247076b8e7c8cb536a85b42f95f5761529ac6f75c52d7"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "f981f15795d9edd1268e12aa733b2e4a3fb6f96f783467d670dd4203a40ab72c"
 metafile = true
@@ -634,11 +639,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
-metafile = true
-
-[[files]]
-file = "mods/fastback.pw.toml"
-hash = "664f7a8dc0f00bf49ce11063adc281db6e6d2305d467b2bc535b9dd64cc25acb"
 metafile = true
 
 [[files]]
