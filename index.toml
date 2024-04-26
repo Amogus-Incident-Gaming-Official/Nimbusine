@@ -362,6 +362,11 @@ hash = "8f52c032c99b10247cdaae36b4aef5d76173109ea4067c0c4479c562f2740bde"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "dc0b2fab9c86d45c490e46a37bf1560698425f2c83609853a6c530b2b38ce321"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "119c6183e0ee766c12e155250b3efff9dde67783453a1cfd421fce7ce168ca2b"
 metafile = true
@@ -981,6 +986,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "a634ed3bb58905429524f6868faea9404ec2bc44e5411734bb58a18a401accf8"
+metafile = true
+
+[[files]]
+file = "mods/personality!.pw.toml"
+hash = "cb0de35c2b0c500669ec9486ae381f3987c437070c56a4788697d2430ae6d531"
 metafile = true
 
 [[files]]
