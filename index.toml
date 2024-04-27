@@ -101,8 +101,8 @@ file = "config/paxi/datapacks/Cirn_Origin_1.1.0.zip"
 hash = "6d4982646b515c1d3fb413c3271eb71ad5c735a4e6f83727efda599ad35aa41e"
 
 [[files]]
-file = "config/paxi/datapacks/Rust's Origins Rework 1.2.10.zip"
-hash = "c49f91bd99da9fef61d38a0aab2d352996566405f66013dbbb083834e252f38b"
+file = "config/paxi/datapacks/Rust's Origins Rework 1.2.11.zip"
+hash = "7d8344a1bdcec78606d28113b6e5d7eb35a9b6f3b7d2de0c9ac28e05b2739f32"
 
 [[files]]
 file = "config/paxi/datapacks/aether-ruined-portals.pw.toml"
@@ -157,6 +157,10 @@ hash = "42bb87b9f09ee070c6fcb67bb51349ddf0135270b1f793c9992743b16a431e25"
 [[files]]
 file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/pack.mcmeta"
 hash = "60778a244348b07ce9967011e70b8dd2669667632a77fee3a8943d57449f017b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Blood_In_Wine_Glasses/pack.png"
+hash = "42bb87b9f09ee070c6fcb67bb51349ddf0135270b1f793c9992743b16a431e25"
 
 [[files]]
 file = "config/thermal-common.toml"
