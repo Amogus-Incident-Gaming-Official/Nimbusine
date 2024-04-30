@@ -17,8 +17,8 @@ file = "config/mysticsbiomes-common.toml"
 hash = "b7697c4e80fef1b05b9b34f79deab6ab96101c627b8ae688cf9ab3219784c3e5"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 1.4.29.zip"
-hash = "38092f58e06ae93aead70372c2f6ed5956989b0053e861ff7ca53a082610ac87"
+file = "config/paxi/datapacks/AIGO Origins 1.4.31.zip"
+hash = "81468ec24da3e26d5cb9b59f0cb66fd9ccb12261a24ad6ff1626c6f1b828acd0"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/basic_crossbow.json"
