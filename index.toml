@@ -261,6 +261,11 @@ hash = "f87811737b59b9097bddc9fe3913aadba2b0ba8186b81b9d32f5b40e3c7bc8f5"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "ba45971e28bf00e0dc80a43d0422c6be3ba67924af1dfbfd7d41b0c746dbdba4"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "becc9f331f62d5c31b0e9abce703297f8a51d8a4baf4f2466552555bc5b15dd1"
 metafile = true
@@ -817,6 +822,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "e10bacddaa7815b0ec925be8e07405f5cc0ae170a2b17bc749928987f0a17f36"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "30e136ebbb3f07f49403e513291253d45a3fae1c7c0250e3cd926d38ac193115"
 metafile = true
 
 [[files]]
