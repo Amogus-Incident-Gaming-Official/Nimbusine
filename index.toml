@@ -371,6 +371,11 @@ hash = "8f52c032c99b10247cdaae36b4aef5d76173109ea4067c0c4479c562f2740bde"
 metafile = true
 
 [[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "e4780c8879c616f7f73fe0a0e729e32f82d2f9076d9b6af12ff5a305f3918b2c"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "dc0b2fab9c86d45c490e46a37bf1560698425f2c83609853a6c530b2b38ce321"
 metafile = true
@@ -1114,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/starbunclemania.pw.toml"
-hash = "e0723ca089a20463b7398ee5df3c7de23eb5c498939b3f4deb1d98470f54ad37"
+hash = "efbe843208d9c66bcd4678d698f8749af56b67a01637249cad8bca4bf1643aa1"
 metafile = true
 
 [[files]]
