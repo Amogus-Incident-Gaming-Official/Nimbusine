@@ -1,0 +1,13 @@
+name = "Dimensional Doors"
+filename = "dimdoors-5.3.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b8Q0BxnV/versions/PEWQfgBu/dimdoors-5.3.3-forge.jar"
+hash-format = "sha1"
+hash = "ac653e60300d43cbe0eaf383d5401a9f569b0f8b"
+
+[update]
+[update.modrinth]
+mod-id = "b8Q0BxnV"
+version = "PEWQfgBu"

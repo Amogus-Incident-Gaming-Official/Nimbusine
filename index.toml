@@ -541,6 +541,11 @@ hash = "2a1eb851bbde3506fdb00e85466915ff5c19204aa220d487220d5671adb6913d"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "d798616f2dfec5f71ac361e151874f3d0aac61cd24a3e33028ac88f5747478c4"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "656fa0c1294a426864918393413c2dbf9720e674fe4f5e5d26ec931e0e901306"
 metafile = true
@@ -1168,6 +1173,16 @@ hash = "5397e83014bce3af1914748d5436b0f5df01f61ec261ee332f187b08e76fb963"
 metafile = true
 
 [[files]]
+file = "mods/the-outer-end.pw.toml"
+hash = "bb950e8967b377266307508390a0a6848de082bcec20c38231e2449cb403f7ab"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "160e6c86655e71ce18b4ac3463ba9eccf51e405a6846541536e95371b0063929"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "7b86c138ab74afff0648607d821603256d0625341a6829674bd5eace393abf6a"
 metafile = true
@@ -1235,6 +1250,11 @@ metafile = true
 [[files]]
 file = "mods/vegan-delight.pw.toml"
 hash = "54efd38aed8ba73fd59bd46a95ebdea8bb9eb72a224c48a50b7fb3d39a4f4cee"
+metafile = true
+
+[[files]]
+file = "mods/voidscape.pw.toml"
+hash = "607057a50307a9da24c04f8371158698fa0a2d2770b9062035ed88228dc96224"
 metafile = true
 
 [[files]]

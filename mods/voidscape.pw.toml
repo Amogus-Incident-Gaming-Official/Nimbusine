@@ -1,0 +1,13 @@
+name = "Voidscape"
+filename = "Voidscape-1.20.1-1.5.389.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "794b864e1dd1bab20b8cc3f16f729b649e61abee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5179872
+project-id = 251730
