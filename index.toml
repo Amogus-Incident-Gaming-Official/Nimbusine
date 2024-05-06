@@ -1266,11 +1266,6 @@ hash = "54efd38aed8ba73fd59bd46a95ebdea8bb9eb72a224c48a50b7fb3d39a4f4cee"
 metafile = true
 
 [[files]]
-file = "mods/voidscape.pw.toml"
-hash = "607057a50307a9da24c04f8371158698fa0a2d2770b9062035ed88228dc96224"
-metafile = true
-
-[[files]]
 file = "mods/werewolves.pw.toml"
 hash = "27ce425a37a199d950bd64bd1194a6245b2c0c0202ca30ebcdb918b34bff2812"
 metafile = true
