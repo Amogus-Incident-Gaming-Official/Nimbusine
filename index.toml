@@ -9,6 +9,10 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "f323fe7c1eda5fdf2490e7b83b47695380bfa8c6bb49c21c9604c8d12fcd4199"
 
 [[files]]
+file = "config/blue_skies-client.toml"
+hash = "7d73571698274e746d34de9c091d60e88e5d0e2ab979fd424c16393d3f701170"
+
+[[files]]
 file = "config/increasemobcap-common.toml"
 hash = "e85dbc3ae5cbf750a6f9acbbf653a6240512842d9ebfb8e3d82d300479e134c5"
 
@@ -165,6 +169,10 @@ hash = "42bb87b9f09ee070c6fcb67bb51349ddf0135270b1f793c9992743b16a431e25"
 [[files]]
 file = "config/thermal-common.toml"
 hash = "baf0d3134d39135f36c8a87db3bc7f74c6f36a5da11610535999b4ebbc111569"
+
+[[files]]
+file = "config/twilightforest-common.toml"
+hash = "07330e99e2b609446df9bb7ea85cd595b9cc39743db45c3163df91b852e4455e"
 
 [[files]]
 file = "config/werewolves-common.toml"
