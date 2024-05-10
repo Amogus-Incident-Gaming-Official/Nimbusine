@@ -1086,6 +1086,11 @@ hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "96657b6a8364d3ebaf1d30cb74378df902513da20b18867c35b5c27b6c26462a"
+metafile = true
+
+[[files]]
 file = "mods/server-tab-info.pw.toml"
 hash = "31f369c3eec3e63b727aafba01207f562523eb496060ae8165ad43fe04918faa"
 metafile = true
